@@ -11,3 +11,5 @@ ETAPY
 3. instalacja generatora => https://www.npmjs.com/package/generator-gulp-less-bootstrap
 
 4. instalacja Visual Studio Code => https://code.visualstudio.com/
+
+5. zeplin => https://zeplin.io/
